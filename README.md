@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Check out my website: https://issamlaradji.github.io/
+
+Here are some things I am doing :))
 
 - 🔭 I’m currently working on computer vision stuff with weakly-supervised, active, and few-shot learning.
 - 🌱 I’m currently learning about optimizing project and life workflows
