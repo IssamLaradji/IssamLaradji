@@ -1,8 +1,8 @@
-### Hey Stranger
+### Hello there friend
 
 Check out my website: https://issamlaradji.github.io/
 
-Here are some things I love doing
+and here are some things I love doing
 
 - 🔭 Working on computer vision and natural language processing with weakly-supervised, active, and few-shot learning.
 - 🌱 Learning about optimizing project and life workflows
